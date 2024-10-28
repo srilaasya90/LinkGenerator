@@ -1,0 +1,6 @@
+@LinkApi_HostAddress = http://localhost:5066
+
+GET {{LinkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
